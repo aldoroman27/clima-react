@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.6c768156.css",
-    "main.js": "/static/js/main.223fc4fc.js",
-    "static/js/453.393d3566.chunk.js": "/static/js/453.393d3566.chunk.js",
-    "static/media/index.cjs": "/static/media/index.671993152dc0f6e0b17a.cjs",
-    "static/media/cloud.png": "/static/media/cloud.20f353f873a9b27949a9.png",
-    "index.html": "/index.html",
-    "main.6c768156.css.map": "/static/css/main.6c768156.css.map",
-    "main.223fc4fc.js.map": "/static/js/main.223fc4fc.js.map",
-    "453.393d3566.chunk.js.map": "/static/js/453.393d3566.chunk.js.map"
+    "main.css": "/clima-react/build/static/css/main.6c768156.css",
+    "main.js": "/clima-react/build/static/js/main.eb5531e3.js",
+    "static/js/453.393d3566.chunk.js": "/clima-react/build/static/js/453.393d3566.chunk.js",
+    "static/media/index.cjs": "/clima-react/build/static/media/index.671993152dc0f6e0b17a.cjs",
+    "static/media/cloud.png": "/clima-react/build/static/media/cloud.20f353f873a9b27949a9.png",
+    "index.html": "/clima-react/build/index.html",
+    "main.6c768156.css.map": "/clima-react/build/static/css/main.6c768156.css.map",
+    "main.eb5531e3.js.map": "/clima-react/build/static/js/main.eb5531e3.js.map",
+    "453.393d3566.chunk.js.map": "/clima-react/build/static/js/453.393d3566.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6c768156.css",
-    "static/js/main.223fc4fc.js"
+    "static/js/main.eb5531e3.js"
   ]
 }
